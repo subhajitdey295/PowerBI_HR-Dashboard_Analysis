@@ -30,3 +30,6 @@
 
 ✅ Conclusion & Value Delivered:
     ➡️ This analytics solution transforms standard workforce logs into a highly predictive corporate asset. Centralizing attrition trends, it allows leadership to pivot from reactive damage control to proactive retention planning. Armed with specific insights regarding at-risk age brackets and low-satisfaction job roles, management can deploy tailored engagement programs, benchmark salaries effectively, and optimize internal policies to lower the current 16.12% attrition rate.
+
+➡️ View the Full Business Report (PDF): [HR ANALYTICS BUSINESS REQUIREMENTS.pdf](https://github.com/user-attachments/files/28070360/HR.ANALYTICS.BUSINESS.REQUIREMENTS.pdf)
+
